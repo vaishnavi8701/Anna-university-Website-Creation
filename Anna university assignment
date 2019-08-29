@@ -1,0 +1,281 @@
+<!--anna university-->
+ <html>
+<head>
+<title>Home - Anna University</title>
+<img src="head.gif">
+<style type="text/css">
+.dropbtn {
+  color: #660000; 
+   background-color: #ffffff;
+  font-size: 16px;
+  border: none; 
+  font-family: "Times New Roman", Times, serif, "Bookman Old Style";
+  font-weight: bold;
+  padding:0px;
+}
+.dropdown {
+  position: relative;
+  display: inline-block; 
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #660000;
+  min-width: 220px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+.dropdown-content a:hover {color: black;background-color:#f2ebea}
+.dropdown:hover .dropdown-content {display: block;}
+.dropdown:hover .dropbtn {color: #660000} 
+</style>
+<style type="text/css">
+ .urlUniv { width: 120px; height:35px; display:block; } 
+ .urlAffi { width: 120px; height:35px; display:block; } 
+ .urlDist { width: 120px; height:35px; display:block; } 
+ .urlResult { width: 120px; height:35px; display:block; } 
+.style49 {font-weight: bold}
+.style60 {
+	font-family: "Times New Roman", Times, serif, "Bookman Old Style";
+	font-weight: bold;
+}
+</style>
+<link href="anna.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<center>
+<table style="background-color:#116cc8;">
+<tr>
+<th><a href="https://www.annauniv.edu/index.php"style="text-decoration: none"><span style="font: bolder; color: #ffffff; font-size: 17px;">Home </span></a> </th>
+<th><a href="#" style="text-decoration: none"><span style="font: bolder; color: #ffffff; font-size: 17px;"> &nbspVC's desk&nbsp</span></a></th>
+<th><a href="#" style="text-decoration: none"><span style="font: bolder; color: #ffffff; font-size: 17px;">&nbspAdministration&nbsp</span></a></th>
+<th><a href="http://www.annauniv.edu/department/index.php" style="text-decoration: none"><span style="font: bolder; color: #ffffff; font-size: 17px;">&nbsp;Department&nbsp;</span></a></th>
+<th><a href="http://www.annauniv.edu/centres.php" style="text-decoration: none"><span style="font: bolder; color: #ffffff; font-size: 17px;">&nbspCenters&nbsp</span></a></th>
+<th><a href="http://cac.annauniv.edu" style="text-decoration: none"><span style="font: bolder; color: #ffffff; font-size: 17px;">&nbspAcademic&nbsp</span></a></th>
+<TH><a href="https://cfr.annauniv.edu/research/index.php" style="text-decoration: none"><span style="font: bolder; color: #ffffff; font-size: 17px;">&nbspResearch&nbsp</span></a></th>
+<th><a href="http://www.annauniv.edu/cai/" style="text-decoration: none"><span style="font: bolder; color: #ffffff; font-size: 17px;">&nbspAffiliation&nbsp</span></a></th>
+<th><a href="#" style="text-decoration: none"><span style="font: bolder; color: #ffffff; font-size: 17px;">&nbspUniversity Exams&nbsp</span></a></th>
+<th><a href="http://www.annauniv.edu/sports" style="text-decoration: none"><span style="font: bolder; color: #ffffff; font-size: 17px;">&nbspSports&nbsp</span></a></th>
+<th><a href="#" style="text-decoration: none"><span style="font: bolder; color: #ffffff; font-size: 17px;">&nbspNAAC&nbsp</span></a></th>
+<TH><a href="http://www.annauniv.edu/IQAC" style="text-decoration: none"><span style="font: bolder; color: #ffffff; font-size: 17px;">&nbspIQAC&nbsp</span></a></th>
+<th><a href="https://mail.annauniv.edu/"  style="text-decoration: none"><span style="font: bolder; color: #ffffff; font-size: 17px;">&nbspMail</span></a></th>
+</tr>
+</table>
+</center>
+
+</table> <table><tr><td> <img src="images/spacer.gif" width=1 height=17 alt=""></td>
+  </tr>
+</table>
+<table><tr>
+    <TD> <IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=17 ALT=""></TD>
+  </TR>
+  <TR>
+    <TD COLSPAN=6 valign="top"><table width="100%"  border="0" align="left"
+cellpadding="0" cellspacing="0">
+</td></tr>        <tr>
+       <td width="20%">
+        </td></tr><tr> <td valign="top"></td></tr></table> </body>
+<body topmargin="0">
+<table width="100%"  border="0" cellspacing="0" cellpadding="0" align="left">
+ <td height="30" valign="top" class="ALL2"><table width="100%"  border="0" align="center" cellpadding="0" cellspacing="0">
+</td>
+  <tr>  
+ <td height="120" valign="top" class="ALL2" align=center><p><a href="vcdesk/gallery.php"><br>
+ <img src="C:\Users\palani\Desktop\anna pic.jpg" width="180" height="143" border="0"></a><br>
+   </p></td></tr>
+<tr>  <td height="31"><div align="center"><br>
+  <div align="center">
+ <a href="https://www.annauniv.edu/tanca2019"  style="color:blue;text-decoration:none">TANCA 2019</a> <br>
+<span style="color:#0f6a05;font-weight:bold;font-size:13px">(M.E./M.Tech./M.Arch./M.Plan.)</span> <br></div> </tr>	
+ <tr>
+ <td height="31">
+<div align="center">
+<a href="https://www.annauniv.edu/otherstate2019" style="color:#000066;text-decoration: none"><strong><span><br>
+Admissions 2019</span> </strong><br>
+ <strong><span style="color:#000080;font-size:12px">(B.E. / B.Tech. / B. Arch. / M.C.A)</span></strong><br><strong><span style="color:#0000ff;font-size:13px">For Other State candidates</span><br>
+<span ><font color="#FF1493"size="2">(B.E./B.Tech. Phase 3 Counselling Call Letter)                    
+</font> </span><br>
+
+<br></span></strong></a>			    
+  </div></td></tr>
+<tr>
+ <td height="31">
+<div align="center"><a href="https://www.annauniv.edu/cir"  style="color:#990000;font-size:16px;text-decoration:none"> UG/PG Admissions 2019</a> <br>
+ <span style="color:#0f64d1;font-weight:bold;font-size:14px">( NRI / CIWGC / FN )</span> <br>
+</div></td>
+</tr>
+<tr>
+ <td height="31">&nbsp;</td>
+ </tr>
+<tr><td  height="31">
+ <div align="center">&nbsp;<span style="color:#50C878;font-size:18px">UG Fee Structure</span> <br>
+<a href="https://www.annauniv.edu/pdf/SAP_Fees Structure.pdf" style="text-decoration: none"><span style="color:#ff0000;"> SAP (B.Arch)</span></a><!--a href="https://www.annauniv.edu/pdf/Admission schedule 2019.pdf" target="_blank"><span class="style41"> ACT,</span></a>  <a href="https://www.annauniv.edu/pdf/MITfee.pdf"><span class="style41">MIT</span></a--><!--span class="style41"></span-->     </div></td> </tr>
+ <tr>
+<td height="31">&nbsp;</td>
+</tr>
+ <tr>
+<td height="31">&nbsp;</td>
+ </tr><tr>
+<td height="31">&nbsp;</td>
+</tr><tr><td height="31">&nbsp;</td>
+ </tr><tr>
+  <td height="31">&nbsp;</td>
+</tr>
+</table></td>
+    </tr>
+</table>
+<map name="Map"><area shape="rect" coords="22,50,129,64" href="http://acoe.annauniv.edu/downloads/Circular.pdf" target="_self">
+<area shape="rect" coords="17,70,135,87" href="https://www.annauniv.edu/pdf/certificate.pdf" target="_self">
+</map></body></td>
+ <td width="53%" valign="top" bgcolor="#FFFFFF">
+<table width="500" height="200" border="1" align="center" cellpadding="0" cellspacing="0" bordercolor="#006ba5" style="
+ border-width:0.3px"><tr>
+<td width="500" valign="top"><table width="500" border="0"><td><tr>
+ <td bgcolor="#0084D6"><font color="#ffffff"><strong>&nbsp;Events </strong><font></td>
+ </tr><tr>
+ <td><marquee direction="up" height="120" scrollAmount=2 scrollDelay=150 class="sidelink" onMouseDown="this.stop()" onMouseOver="this.stop()" onMouseMove="this.stop()" onMouseOut="this.start()" vspace="10">
+ <p class="three"><span class="sidelink">
+<a href="https://www.annauniv.edu/pdf/Advertisement RCC_14082019.pdf"style="text-decoration: none"><font color="#660000">Recruitment of Research Staff - Centre for Food Tech. - Dept. of Biotechnology</font></a><br>
+<a href="https://www.annauniv.edu/pdf/swut.pdf"style="text-decoration: none"><font color="#660000">Immersion program offered by the Swinburne University of Technology, Melbourne, Australia - CIR</font></a><br>
+<a href="https://www.annauniv.edu/pdf/Requirement of Technical Assistant - Optoelectronics and Imaging_UPE.pdf" style="text-decoration: none"><font color="#660000">Recruitment of Technical Assistant - UPE</font></a><br>
+<a href="https://www.annauniv.edu/pdf/Book Exhibition 2019 Poster for WEB  (1).pdf"style="text-decoration: none"><font color="#660000">Book Exhibition 2019 - University Library</font></a><br>
+<a href="https://www.annauniv.edu/pdf/PA 11 & CA.pdf" style="text-decoration: none"><font color="#660000">Recruitment of Professional Assistant I, II / Clerical Assistant - ACOE</font></a><br>
+<a href="https://www.annauniv.edu/pdf/Invitation letter_Linux_23_August_2019.pdf"style="text-decoration: none"><font color="#660000">One Day Linux workshop for Teachers</font></a><br>
+<a href="https://www.annauniv.edu/pdf/National Seminar Brochure 29.08.2019.pdf"style="text-decoration: none"><font color="#660000">National Seminar on Environmental Policy and Legislation - CES</font></a><br>
+<a href="http://ctdt.annauniv.edu/award" style="text-decoration: none"><font color="#660000">Inviting applications for Distinguished Researcher Award 2019 - CTDT</font></a><br>
+<a href="https://www.annauniv.edu/pdf/SERB Advt 06.8.19.pdf" style="text-decoration: none"><font color="#660000">Recruitment of Project Fellow - Dept. of Physics</font></a><br>
+<a href="https://www.annauniv.edu/pdf/One day seminar_urban.pdf" style="text-decoration: none"><font color="#660000">One day seminar on Urban Air Quality Management - CES</font></a><br>
+<a href="https://www.annauniv.edu/pdf/Reruitment - Professional Assistant - III.pdf" style="text-decoration: none"><font color="#660000">Recruitment - Professional Assistant III - Dept. of EEE</font></a><br>
+<a href="https://in.mathworks.com/learn/tutorials/deep-learning-onramp.html"style="text-decoration: none"><font color="#660000">UPE workshop-Product Development and Commercialization using MATLAB - Dept. of ECE</font></a><br>
+<a href="https://www.annauniv.edu/pdf/advanced metrology workshop-mech-uvocce(1).pdf" style="text-decoration: none"><font color="#660000">A One-day National Level Workshop on Advanced Metrology  - UVOCCE - Thoothukudi</font></a><br>
+<a href="https://www.annauniv.edu/pdf/Reruitment - Professor - Appadurai Chair for Power Systems - DEEE.pdf" style="text-decoration: none"><font color="#660000">Recruitment - Chair Professor - Appadurai Chair for Power Systems - Dept. of EEE</font></a><br>
+<a href="https://www.annauniv.edu/pdf/UPE-Technical Assistant-Optoelectronics-Advt.pdf" style="text-decoration: none"><font color="#660000">Recruitment of Technical Assistant - UPE</font></a><br>
+<a href="http://www.icaieces.in" style="text-decoration: none"><font color="#660000">International Conference on Artificial Intelligence and Evolutionry Computations in Engineering Systems, ICAIECES - 2020 - Dept. of EEE</font></a><br>
+<a href="https://www.annauniv.edu/pdf/GIAN-ARB.pdf" style="text-decoration: none"><font color="#660000">Gian Course on Advances in Radiation Biology - Centre for Biotech.</font></a><br>
+<a href="https://www.annauniv.edu/pdf/GIAN-EMSCTR.pdf" style="text-decoration: none"><font color="#660000">Gian Course on Experimental Models in Stem Cells & Tissue Regeneration - Centre for Biotech.</font></a><br>
+<a href="https://www.annauniv.edu/pdf/AUFRG SHORT TERM COURSE_WEEKEND.pdf" style="text-decoration: none"><font color="#660000">Short Term Course - AU-FRG Institute for CAD/CAM</font></a><br>
+<a href="http://cqm.annauniv.edu/" style="text-decoration: none"><font color="#660000">Lean Six Sigma Certificate Training Programme - </font></a> 
+<a href="https://www.annauniv.edu/pdf/Image (4)-converted.pdf" style="text-decoration: none"><font color="#660000">CTDT - Department of Scientific and Industrial Research</font></a><br>
+<a href="https://www.annauniv.edu/pdf/Readmission 2019.pdf" style="text-decoration: none"><font color="#660000">Readmission at A.C.Tech Hostels</font></a><br>
+<a href="https://www.annauniv.edu/pdf/APCAMM Broucher.pdf" style="text-decoration: none"><font color="#660000">International Conference - APCAMM 2019 - Dept. of Geology</font></a><br>
+<a href="https://www.annauniv.edu/pdf/webposterserb19.pdf"style="text-decoration: none"><font color="#660000">DST-SERB School  on  Photonics Phenomena, Materials and Devices - CGC</font></a><br>
+<a href="http://www.icoac.mitindia.edu" style="text-decoration: none"><font color="#660000">11<sup>th</sup> International Conference on Advanced Computing 18<sup>th</sup> - 20<sup>th</sup> Dec 2019 - Dept. of Compter Technology - MIT Campus</font></a><br>
+<a href="https://aucoe.annauniv.edu/passpercentndrnkdetails.html" style="text-decoration: none"><font color="#660000">Academic Performance of University Departments, Autonomous and Non-Autonomous Affiliated Colleges of April/May 2018 and November/December 2018 Examinations - COE</font></a><br>
+<a href="http://www.annauniv.edu/pdf/ICCST19_AU.pdf" style="text-decoration: none"><font color="#660000">53<sup>rd</sup> IEEE International Carnahan Conference on Security Technology (ICCST 2019) - Dept. of Electronics Engg.</font></a><br>
+<a href="http://www.annauniv.edu/pdf/TO RCC CEG ENDOWMENT AWARD LIST.pdf" style="text-decoration: none"><font color="#660000">Annual Day 2018 Endowment Awards List - CEG Campus<font></a><br!-->
+<a href="https://www.annauniv.edu/gian/course.html"  style="text-decoration: none"><font color="#660000">GIAN Course on Big Data Analytics & Business Intelligence</font></a><br>
+<a href="http://cqm.annauniv.edu/oneday/DOE.pdf"  style="color:#cc6600;text-decoration: none">Design of Experiment / </a> 
+<a  href="http://cqm.annauniv.edu/oneday/DFSS.pdf" style="color:#ff3399;text-decoration: none">Design for Six Sigma / </a> 
+<a  href="http://cqm.annauniv.edu/oneday/APD.pdf" style="color:#0000cc;text-decoration: none">Advanced Probability & Distribution - Minitab </a><br-->
+<a  href="http://cqm.annauniv.edu/FV/FE.pdf"  style="color:#ff3399;text-decoration: none">Wheels India / </a> 
+<a href="https://swayam.gov.in/publiccourse" style="text-decoration: none"><font color="#660000">Online Course on the SWAYAM portal</font></a><br><a href="https://www.annauniv.edu/cia/pdf/ynu.pdf" target="_new"><font color="#660000">List of students selected to visit Yokohama National University, Japan under FTTP</font></a><br-->
+<a href="https://www.annauniv.edu/pdf/RANK_DEPT_AFF_TO_PUBLISH_IN_WP.pdf"  style="text-decoration: none"><font color="#660000">Convocation - 2017 - Notification for First Rank Holders and Medalists </font></a><br!-->
+<a href="https://www.annauniv.edu/pdf/MIR.pdf" style="text-decoration: none"><font color="#660000">Recruitment of Project Associate (MIR)- Dept.of Civil Engineering, CEG </font></a><br-->
+<a href="https://www.annauniv.edu/pdf/01_Brochure_PHP MySQL 17 & 18 FEB.pdf" style="text-decoration: none"><font color="#660000">Two Days Workshop on Web Development Using PHP and MYSQL - RCC   </font></a><br-->	
+<a href="https://www.annauniv.edu/pdf/AUSB - South Zone Inter University Table Tennis (Men) - Intimation cum Fixture - Reg.pdf" style="text-decoration: none"><font color="#660000">AUSB - South Zone Inter University Table Tennis (Men) Tournament 2016-17</font></a><br-->
+<a  href="https://www.annauniv.edu/cia/pdf/bcuvi.pdf" style="text-decoration: none"><font color="#660000">Guest lecture on Biomedical Sciences by Dr. Vivek Indra Mohan, Birmingham City University, UK</font></a><br-->
+<a href="https://www.annauniv.edu/pdf/BUILDER - Advertisement - project assistant and operator.pdf" style="text-decoration: none"><font color="#660000">Recruitment of Project Assistant / Operator - Builder - Centre for Biotechnology </font></a><br-->
+<a href="https://www.annauniv.edu/pdf/fdtp_cs6801_panruti.pdf" style="text-decoration: none"><font color="#660000">Seven Days FDTP on CS6801 - Multi-Core Architectures and Programming - UCE,Panruti</font></a><br-->
+<a href="https://www.annauniv.edu/pdf/BigDataAnalytics.pdf" style="text-decoration: none"><font color="#660000">Two Days Workshop on Big Data Analytics - RCC,CEG </font></a><br>
+<a href="https://www.annauniv.edu/pdf/GreenComputing.pdf" style="text-decoration: none"><font color="#660000">Two Days Workshop on Green Computing  - RCC,CEG </font></a><br-->
+<a href="https://www.annauniv.edu/rusa" style="text-decoration: none"><font color="#660000">Rashtriya Uchchatar Shiksha Abhiyan (RUSA) Scheme</font></a><br>
+<a href="https://www.annauniv.edu/gian" style="text-decoration: none"><font color="#660000">Global Initiative of Academic Networks (GIAN) - CTDT    </font></a><br>
+<a href="http://www.annauniv.edu/pdf/AU-CUIC-A Ready Reckoner for Placement.pdf" style="text-decoration: none"><font color="#660000">A ready reckoner for enhancing placement activities</font></a><br>
+<a href="http://www.annauniv.edu/pdf/sqcm.pdf" style="text-decoration: none"><font color="#660000">Students Quality Club Membership Open</font></a><br>	
+<a href="http://www.momascholarship.gov.in/" style="text-decoration: none"><font color="#660000">Govt. - Merit-cum-Means Scholarship / Post-Matric Scholarship</font></a><br>
+<a href="http://www.annauniv.edu/pdf/Wi Fi Registration Form.pdf" style="text-decoration: none"><font color="#660000">WiFi Connectivity Registration for Students and Staff Members of University Departments</font></a> </p>
+</marquee></td>
+</tr><tr>
+<td height="19" valign="top"><div align="right"><a href="more.php" style="text-decoration: none;color:#0000ff;font-weight:bold">View more...</a> </div>                    </tr>
+</table></tr>
+</table>
+<div align="center">
+<span class="style49">
+<br></div>
+<table width="500" height="166" border="1" align="center" cellpadding="0" cellspacing="0" bordercolor="#006ba5" style="border-width:0.3px">
+<tr>
+<td height="30" bgcolor="#0084D6" class="style17"><strong>&nbsp;News</strong></td>
+</tr>
+<tr>
+<td valign="top"> 
+<table width="500" border="0">
+<tr>
+<td><a href="#"><IMG src="C:\Users\palani\Desktop\univ.jpg"><a></td>
+<td><a href="#"><IMG src="C:\Users\palani\Desktop\affili.jpg"><a></td>
+<td><a href="#"><IMG src="C:\Users\palani\Desktop\dista.jpg"><a></td>
+<td><a href="#"><IMG src="C:\Users\palani\Desktop\results.jpg"><a></td></tr></table>
+
+<table width="500" border="0">
+<td><marquee direction="up" height="120" scrollAmount=2 scrollDelay=150 class="sidelink" onMouseDown="this.stop()" onMouseOver="this.stop()" onMouseMove="this.stop()" onMouseOut="this.start()" vspace="10">
+ <p class="three"><span class="sidelink">
+<a href="#" style="text-decoration: none"><span class="style10"><font size="2" color="#FF69B4">All are rquested to use the official url http//coe.annauniv.edu.in ,anna university time table</font></span></a><br>
+<a href="#" style="text-decoration: none"><span class="style10"><font size="2"color="#660000">Affiliated changes-Notification in the addition in the UG time table- May/April 2019</font></span></a><br>
+<a href="#"style="text-decoration: none" ><span class="style10"><font size="2" color="#660000">Affiliated changes-Notification in the addition in the PG time table- May/April 2019</font></span></a><br>
+<a href="#" style="text-decoration: none"><span class="style10"><font size="2"  color="#660000">Affiliated changes-Notification in the changes in the UG time table- May/April 2019</font></span></a><br>
+<a href="#" style="text-decoration: none"><span class="style10"><font size="2" color="#660000">Affiliated changes-Notification in the changes in the PG time table- May/April 2019</font></span></a><br>
+<a href="#"style="text-decoration: none"><span class="style10"><font size="2" color="#660000">Affiliated changes-Notification in chandes and addition in UG time table/PG time table- May/April 2019</font></span></a><br><p>
+</td>
+</tr>
+</table>  
+<div id="myDiv"></div></td>
+</tr></table>
+<div align="center"><a href="AU CAMPUS MAP.pdf"><img src="C:\Users\palani\Desktop\aumap.png" width="80" height="80" border="0" /></a><!--a href="board.pdf">&nbsp;&nbsp;&nbsp;&nbsp;<img src="phone_directory.jpg" alt="" width="80" height="80" border="0" /></a>  <a href="board.pdf">&nbsp;&nbsp;&nbsp;&nbsp;</a-->
+<a href="https://acoe.annauniv.edu/gradregister"><font color="#660000"></a></div></td>
+<td width="27%" valign="top" bgcolor="#FFFFFF"><br>
+<table width="100%" border="2" bordercolor="#0066CC">         
+<tr><td align="center"  bgcolor="#0084D6" bordercolor="#0066CC"> <font color="#FFFFFF" size="-1"> <b> QUICK LINKS</b> </font></td>
+</tr>
+<tr><td bordercolor="#FFFFFF"> 
+ <div class="dropdown">
+  <button class="dropbtn">About Us</button>
+ <div class="dropdown-content">
+  <a href="Anna University Profile.pdf" target="_blank">Our History</a>
+ <a href="vision_mission.pdf" target="_blank">Vision & Mission</a>  
+<a href="core_values.pdf" target="_blank">Core Values</a>  
+<a href="organogram.pdf" target="_blank">Organogram</a>  
+<a href="strategic_goals.pdf" target="_blank">Strategic Goals & Objectives</a>  
+  </div>
+</div> </td></tr>
+<tr><td bordercolor="#FFFFFF"><a href="https://www.annauniv.edu/pdf/Acts & Statues-New.pdf"style="text-decoration: none"> <font color="#660000"><b>  Act & Statutes </b></font></a> </td></tr>
+<tr><td bordercolor="#FFFFFF"> <font color="#660000"><b>  Alumni   <a href="http://ceg.annauniv.edu" style="color:#660000;text-decoration: none">CEG</a> | <a href="http://www.sapaa.org.in" style="color:#660000;text-decoration: none">SAP</a> | <a href="http://actchemalumni.com" style="color:#660000;text-decoration: none">ACT</a></b></font></td></tr>
+<tr><td bordercolor="#FFFFFF"> <a href="https://onlinetranscript.annauniv.edu/verify/"style="text-decoration: none"> <font color="#660000"><b>CoE - Genuineness Verification</b></font></a> </td></tr>
+<tr><td bordercolor="#FFFFFF"><a href="constituent_colleges.php"style="text-decoration: none"> <font color="#660000"><b> Constituent Colleges </b></font></a> </td></tr>
+<tr><td bordercolor="#FFFFFF"> <a href="http://cde.annauniv.edu"style="text-decoration: none">  <font color="#660000"><b>  Distance Education   </b></font></a> </td></tr>
+<tr><td bordercolor="#FFFFFF"> <a href="http://www.annauniv.edu/HealthCentre/"style="text-decoration: none"> <font color="#660000"><b>Health Centre   </b></font></a> </td></tr> 
+<tr><td bordercolor="#FFFFFF">  <a href="cir/index.php"style="text-decoration: none"> <font color="#660000"><b>International Relations   </b></font></a> </td></tr>
+<tr><td bordercolor="#FFFFFF"> <a href="http://www.mhrdnats.gov.in"style="text-decoration: none"> <font color="#660000"><b>National Apprenticeship  Schemes</b></font></a> </td></tr>
+<tr><td bordercolor="#FFFFFF"> <a href="nirf.php"style="text-decoration: none"> <font color="#660000"><b>NIRF</b></font></a> </td></tr>
+<tr><td bordercolor="#FFFFFF"> <a href="http://www.annauniv.edu/ipr"style="text-decoration: none"> <font color="#660000"><b>Patents  </b></font></a></td></tr>
+<tr><td bordercolor="#FFFFFF"> <a href="https://www.annauniv.edu/POSH/index.php"style="text-decoration: none"> <font color="#660000" ><marquee><b>Prevention of Sexual Harassment Cell</b></marquee></font></a> </td></tr>
+<tr><td bordercolor="#FFFFFF">  <a href="http://www.annauniv.edu/rcc"style="text-decoration: none">  <font color="#660000"><b>Ramanujan Computing Centre  </b></font></a> </td></tr>
+<tr><td bordercolor="#FFFFFF"> <a href="https://rcell.annauniv.edu/rc"style="text-decoration: none"> <font color="#660000"><b>Recruitment Cell</b></font></a> </td></tr>
+<tr><td bordercolor="#FFFFFF"><a href="regional_offices.php"style="text-decoration: none"> <font color="#660000"><b>Regional Offices </b></font></a> </td></tr>
+<tr><td bordercolor="#FFFFFF"> <a href="http://www.annauniv.edu/RTI2005.html"style="text-decoration: none"> <font color="#660000"><b>RTI Mandatory Disclosure   </b></font></a> </td></tr>
+<tr><td bordercolor="#FFFFFF"><a href="campustour/index.php"style="text-decoration: none"><font color="#660000"><b>Students' Activities </b></font></a> </td></tr>
+<tr><td bordercolor="#FFFFFF"> <a href="http://www.annauniv.edu/tender/"style="text-decoration: none"> <font color="#660000"><b>Tender   </b></font></a> </td></tr>
+<tr><td bordercolor="#FFFFFF"> <a href="univdept.php"style="text-decoration: none"> <font color="#660000"><b>University Departments</b></font></a> </td></tr>
+<tr><td bordercolor="#FFFFFF"> <a href="https://library.annauniv.edu"style="text-decoration: none"> <font color="#660000"><b>University Library   </b></font></a> </td></tr>
+</table>
+<div align="center"><a href="AU CAMPUS MAP.pdf"><br>
+</a></div>
+<div align="center">&nbsp;&nbsp;&nbsp; <a href="http://www.annauniv.directverify.in/hiw" target="_blank"></a></div></tr>
+</table>
+<table>
+<tr>
+<td colspan="5" valign="top" bgcolor="#015294"><div align="center">
+<div align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span >Designed ,Developed and Maintained by :Ramanujan Computing Centre &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></div> </TD>
+<td bgcolor="#015294">&nbsp;</TD>
+<TD> <IMG SRC="images/spacer.gif" WIDTH=1 HEIGHT=19 ALT=""></TD>
+</tr>
+
+</table>
+<div align="center"></div>
+</body>
+
+</html>
